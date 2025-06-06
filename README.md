@@ -1,6 +1,6 @@
 # StreamSavior - Commercial Video Downloader
 
-🛒 **[Purchase on Itch.io](https://zgwmike.itch.io/universal-video-downloader)** - $10.00 USD
+🛒 **[Purchase on Itch.io](https://zgwmike.itch.io/universal-video-downloader)**
 
 StreamSavior is a powerful, commercial video downloader that supports 1000+ websites including YouTube, Vimeo, TikTok, and many more.
 
