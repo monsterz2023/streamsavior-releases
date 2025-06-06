@@ -28,7 +28,6 @@ Check the [Releases](https://github.com/monsterz2023/streamsavior-releases/relea
 
 ## 📞 Support
 
-- 📧 **Email**: support@streamsavior.com
 - 🐛 **Bug Reports**: [Create an issue](https://github.com/monsterz2023/streamsavior-releases/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/monsterz2023/streamsavior-releases/wiki)
 - 💬 **Discussions**: [Community](https://github.com/monsterz2023/streamsavior-releases/discussions)
